@@ -25,9 +25,9 @@ const moocscards = [
     moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "C# Basics",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/share/10478s3@gUyz3GtqNEOc-qd1tETgfpsvzOc716yl6nfAgCtSBdMEc5amX6GdeA6ifriWzIVGVw==/",
   },
   {
     title: "Javascript",
@@ -51,14 +51,14 @@ const moocscards = [
       "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
   },
   {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    title: "Unity: 2D Game Development",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/share/101IPa3@Z1Qs2TQUVxy9NJLF897LcDqAXGR1acHGtdVxyaT5vVog0BN-v7bVnFLIWf_AVLmE4Q==/",
   },
   {
-    title: "XML-AJAX",
+    title: "The web developer bootcamp 2022",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    moocLink: "https://www.udemy.com/share/101W923@iM8IsxG-uK1dacxOEORIHHrq4uVpbb5Hm0v6IJRRwtrgfTLGfwT-W7tyJVtpjsBo0g==/",
   },
   {
     title: "Data Structures & Algorithms",
